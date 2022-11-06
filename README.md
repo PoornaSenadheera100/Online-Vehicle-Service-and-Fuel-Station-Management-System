@@ -3,6 +3,7 @@ A simple web application developed accroding to the Object Oriented Concepts to 
 ## Backend
 - MySQL WorkBench (Local Database)
 - Java Servlets
+- Apache Tomcat (Local Server)
 
 ## Frontend
 - JSP pages (Java Server pages)
